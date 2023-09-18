@@ -1,0 +1,44 @@
+C:\Users\roma\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.exe
+C:\Users\roma\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.deps.json
+C:\Users\roma\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.runtimeconfig.json
+C:\Users\roma\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.dll
+C:\Users\roma\source\repos\калькулятор\калькулятор\bin\Debug\net6.0\калькулятор.pdb
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfo.cs
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.dll
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\refint\калькулятор.dll
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.pdb
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\калькулятор.genruntimeconfig.cache
+C:\Users\roma\source\repos\калькулятор\калькулятор\obj\Debug\net6.0\ref\калькулятор.dll
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\bin\Debug\net6.0\калькулятор.exe
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\bin\Debug\net6.0\калькулятор.deps.json
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\bin\Debug\net6.0\калькулятор.runtimeconfig.json
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\bin\Debug\net6.0\калькулятор.dll
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\bin\Debug\net6.0\калькулятор.pdb
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.csproj.AssemblyReference.cache
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfoInputs.cache
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfo.cs
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.dll
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\refint\калькулятор.dll
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.pdb
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\калькулятор.genruntimeconfig.cache
+C:\Users\roma\Desktop\прак\калькулятор\----1\калькулятор\obj\Debug\net6.0\ref\калькулятор.dll
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\bin\Debug\net6.0\калькулятор.exe
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\bin\Debug\net6.0\калькулятор.deps.json
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\bin\Debug\net6.0\калькулятор.runtimeconfig.json
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\bin\Debug\net6.0\калькулятор.dll
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\bin\Debug\net6.0\калькулятор.pdb
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfoInputs.cache
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\калькулятор.AssemblyInfo.cs
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\калькулятор.dll
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\refint\калькулятор.dll
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\калькулятор.pdb
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\калькулятор.genruntimeconfig.cache
+C:\Users\mix46\OneDrive\Рабочий стол\кальк\калькулятор\obj\Debug\net6.0\ref\калькулятор.dll
